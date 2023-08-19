@@ -1,0 +1,15 @@
+{
+  "_output_dir": "/home/tdoughty/Projects/python",
+  "_repo_dir": "/home/tdoughty/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Todd Doughty",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "w.todd.doughty@gmail.com",
+  "friendly_name": "Househunter",
+  "github_user": "tdoughty1",
+  "license": "MIT",
+  "package_name": "househunter",
+  "project_name": "househunter",
+  "version": "0.0.0"
+}
